@@ -12,7 +12,7 @@ import { ElememtsHomeComponent } from './elememts-home/elememts-home.component';
   imports: [
     CommonModule,
     ElementsRoutingModule
-  ],
-  exports: [ElememtsHomeComponent]
+  ]
+  // exports: [ElememtsHomeComponent]
 })
 export class ElementsModule { }
